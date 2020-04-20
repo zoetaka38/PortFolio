@@ -5,8 +5,8 @@
 |key|value|
 |---|-----|
 |Name|ZOAMON（ゾエモン）|
-|Blog|[ZOA Blog](https://web.zoa-tech.com/blog/)|
-|Blog2|[ZOA Portfolio | ZOAMONのポートフォリオサイト](https://blog.zoa-tech.com/)|
+|Blog|[技術ブログ](https://web.zoa-tech.com/blog/)|
+|Blog2|[ビジネスブログ](https://blog.zoa-tech.com/)|
 |Twitter|[@zoa20511836](https://twitter.com/zoa20511836)|
 
 元々は統計などのデータ分析をするためにプログラミングを学び始めました。  
